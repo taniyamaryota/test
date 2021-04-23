@@ -1,6 +1,6 @@
 # taniyama
 ## ryota
-**aiueo
-*aiuei
-~~aiueo
+**aiueo**
+*aiuei*
+~~aiueo~~
 >aiueo
