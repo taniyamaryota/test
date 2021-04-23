@@ -1,1 +1,6 @@
-# test
+# taniyama
+## ryota
+**aiueo**
+*aiuei*
+~~aiueo~~
+>aiueo
